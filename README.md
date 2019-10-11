@@ -20,3 +20,5 @@ The push job pushes the code to docker hub using docker images wirh a BUILD_TAG 
 
 DEPLOY:
 This job deploys the docker image on the deployement or production server.
+
+The job can be tested using "docker ps" command.
